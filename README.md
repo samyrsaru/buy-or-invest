@@ -31,7 +31,7 @@ All settings are saved automatically in localStorage:
 
 ## Demo
 
-Try it live: https://samyrsaru.github.io/buy-or-invest/
+Try it live: https://buy-or-invest.samyr.workers.dev
 
 ## License
 
