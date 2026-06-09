@@ -31,7 +31,7 @@ All settings are saved automatically in localStorage:
 
 ## Demo
 
-Try it live: [GitHub Pages URL will be added after deployment]
+Try it live: https://samyrsaru.github.io/buy-or-invest/
 
 ## License
 
